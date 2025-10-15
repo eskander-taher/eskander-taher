@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Eskander
 
-<!--
-**eskander-taher/eskander-taher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Next.js, React, Express, MongoDB, TypeScript, Python**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **About Me**  
+4+ years building production-ready web apps for clients worldwide: AI tools, CRMs, corporate websites, and cultural platforms. I deliver **end-to-end solutions** from frontend to backend with clean, maintainable code.
+
+---
+
+🚀 **Tech Stack**  
+- **Frontend:** Next.js, React, TypeScript, Tailwind, Material UI  
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Flask, Python  
+- **DevOps:** GitHub CI/CD, VPS deployment, Docker, Husky  
+- **Other:** JWT/OAuth, Serverless functions, Cypress (basic)  
+
+---
+
+📂 **Selected Projects**  
+- **AI Video & Meme Generator** – Next.js frontend + Python backend, AI-assisted editing  
+- **Fitness CRM** – Next.js + Express + MongoDB, full-featured dashboard  
+- **Yemen Cultural Attaché Website** – MERN stack, multilingual (Arabic / English / Russian), responsive  
+- **Amal Al-Khair Holding Group Website** – Full-stack corporate site, English & Arabic  
+- **YemenHires** – Next.js + Express + TS, job & tender platform  
+
+---
+
+📬 **Contact Me**  
+[LinkedIn](https://www.linkedin.com/in/eskander-taher) | [Email](mailto:eskander.alshaibany@gmail.com)
