@@ -20,11 +20,11 @@
 ---
 
 📂 **Selected Projects**  
-- **[AI Video & Meme Generator](#)** – Next.js frontend + Python backend, **100K+ videos processed**, AI-assisted editing  
+- **[AI Video & Meme Generator](https://publefy.com/)** – Next.js frontend + Python backend, **100K+ videos processed**, AI-assisted editing  
 - **[Fitness CRM](#)** – Next.js + Express + MongoDB, **reduced admin time by 40%** with automated workflows  
-- **[Yemen Cultural Attaché Website](#)** – MERN stack, multilingual (Arabic / English / Russian), responsive design  
-- **[Amal Al-Khair Holding Group Website](#)** – Full-stack corporate site, English & Arabic  
-- **[YemenHires](#)** – Next.js + Express + TS, job & tender platform  
+- **[Yemen Cultural Attaché Website](https://yemculru.com/)** – MERN stack, multilingual (Arabic / English / Russian), responsive design  
+- **[Amal Al-Khair Holding Group Website](https://www.amalalkhair.com/)** – Full-stack corporate site, English & Arabic  
+- **[YemenHires](https://www.yemenhires.com/)** – Next.js + Express + TS, job & tender platform  
 
 ---
 
